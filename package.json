@@ -1,5 +1,17 @@
 {
+  "name": "mm-api",
+  "version": "1.0.0",
+  "description": "Simple json-server database to deploy to the cloud",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server.js"
+  },
+  "keywords": [
+      "json-server, node, REST API"
+  ],
+  "author": "NSS Student",
+  "license": "ISC",
   "dependencies": {
-    "clarinet": "^0.12.5"
+      "json-server": "latest"
   }
 }

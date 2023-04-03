@@ -28,7 +28,9 @@
       "password": "poppy",
       "id": 3,
       "vegetarian": false,
-      "glutenFree": true
+      "glutenFree": true,
+      "vegan": false,
+      "dairyFree": false
     }
   ],
   "favorites": [
